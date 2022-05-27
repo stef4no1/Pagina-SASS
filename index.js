@@ -26,8 +26,3 @@ listBtn.onclick = function () {
         list.style.display = "none";
         }
 };
-
-//cambia de color al hacer click! como no hay un else, al apretar de nuevo no cambia de color
-    title.onclick = function () {
-    title.style.color = "red";
-};
