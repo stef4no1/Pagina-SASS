@@ -60,11 +60,9 @@ h2 {
     margin: 5%;
 }
 
-// ************************ //
-
 //aside
 .asideSection {
-  //este block es para que el media query no lo desaparezca
+    //este block es para que el media query no lo desaparezca
     display: block;
     position: fixed;
     background-color: $dark-less;
@@ -148,7 +146,7 @@ nav {
     }
 }
 
-  //dashboard body:
+//dashboard body:
 main {
     display: flex;
     flex-wrap: wrap;
